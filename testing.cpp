@@ -10,5 +10,5 @@ int main() {
         a[n] = static_cast<double>(n);
     }
 
-    assert(a[2] == 2.0);
+    assert(a[2] == 3.0);
 }
